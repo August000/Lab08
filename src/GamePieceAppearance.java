@@ -1,8 +1,8 @@
 
 public class GamePieceAppearance
 {
-    Color color;
-    Shape shape;
+    private Color color;
+    private Shape shape;
     
     public GamePieceAppearance(Color color, Shape shape) {
         this.color = color;
